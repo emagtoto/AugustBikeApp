@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1035475365792",
+    "project_id": "augustbikeapp",
+    "storage_bucket": "augustbikeapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035475365792:android:464f6aa10705dc2b05bec5",
+        "android_client_info": {
+          "package_name": "com.example.augustbikeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9GoSAM-s9qUFG9mZ_l3QETPNLkX2s6UQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
